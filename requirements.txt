@@ -1,1 +1,5 @@
-
+aiogram
+aiohttp
+requests
+instagrapi
+Pillow
