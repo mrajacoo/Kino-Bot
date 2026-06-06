@@ -1,5 +1,5 @@
-aiogram
+python-telegram-bot==21.6
+instagrapi
 aiohttp
 requests
-instagrapi
 Pillow
